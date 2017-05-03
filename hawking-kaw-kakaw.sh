@@ -1,4 +1,6 @@
 curl https://raw.githubusercontent.com/rcaloras/bash-preexec/master/bash-preexec.sh -o ~/.bash-preexec.sh
+curl https://rawgit.com/DanielSeehausen/terminal-helper/master/hawking-kaw-kakaw.sh
+
 touch ~/.invoke-stephen.sh
 getSrcFile="source ~/.bash-preexec.sh"
 getExecFile="source ~/.invoke-stephen.sh"
