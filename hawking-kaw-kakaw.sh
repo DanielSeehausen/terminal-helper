@@ -11,7 +11,7 @@ echo $getSrcFile >> ~/.invoke-stephen.sh
 echo $stephenFunc >> ~/.invoke-stephen.sh
 echo $stephenAlias >> ~/.profile
 echo $stephenAlias >> ~/.bash_profile
-echo source ./bash_profile
+echo source ~/.bash_profile
 
 echo "
 -------------------------------------------------------------------
