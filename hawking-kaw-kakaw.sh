@@ -15,7 +15,6 @@ echo source ~/.bash_profile
 
 echo "
 -------------------------------------------------------------------
-                      OPEN NEW TERMINAL THEN:
 ENTER THE COMMAND: 'stephenPlease' TO RECEIVE HELP FROM MR. HAWKING
 -------------------------------------------------------------------"
 
